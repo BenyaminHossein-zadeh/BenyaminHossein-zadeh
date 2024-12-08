@@ -42,14 +42,14 @@ that the student can prepare a course and watch the course.
 > 
 > **Tech Stack**: React, Node.js, ReactQuery, ReduxTLK, Axios, NextUi, TailwindCss
 >
-> ![Project Screenshot](https://drive.google.com/file/d/15nN7B9W2_YUgRV9wIWTV_kF_A7NHQkEe/view?usp=sharing)
+> ![Project Screenshot](https://drive.google.com/u/0/drive-viewer/AKGpihaVUMHTeP5jWb7gI8XLobZApJmT8st6WI-GFZ-Q8bIUJTrttZJ3kChX2vbTXqgZTsf7a5Y8GNhs1tfUPnPwTx61FlXR2pulcw=s1600-rw-v1)
 
 ### [ErrorZone Admin Panel](https://github.com/academy-react-summer1403/ErrorZone-Admin)
 > **Description**: This is The Admin Panel of ErrorZone WebApp.
 >
 > **Tech Stack**: React, Node.js, ReactQuery, ReduxTLK, Axios, Bootstrap,
 >
-> ![Project Screenshot](https://drive.google.com/file/d/1ESZp9wG7OZheznIK4cmlNJYggMJ_5raQ/view?usp=sharing)
+> ![Project Screenshot](https://drive.google.com/u/0/drive-viewer/AKGpihbSVwSjH-yG3ZV7YSRWfQZwE84AiGZAFVWyfStu3xi5rBLSaPXtUBxQsCNUPZ0eH9vtYWw3R8Y-zM22Cgc9qMmkOPymsKdBbgg=s1600-rw-v1)
 
 ---
 
