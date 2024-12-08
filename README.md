@@ -49,7 +49,7 @@ that the student can prepare a course and watch the course.
 >
 > **Tech Stack**: React, Node.js, ReactQuery, ReduxTLK, Axios, Bootstrap,
 >
-> ![Project Screenshot](https://drive.google.com/u/0/drive-viewer/AKGpihbSVwSjH-yG3ZV7YSRWfQZwE84AiGZAFVWyfStu3xi5rBLSaPXtUBxQsCNUPZ0eH9vtYWw3R8Y-zM22Cgc9qMmkOPymsKdBbgg=s1600-rw-v1)
+> ![Project Screenshot]([https://drive.google.com/u/0/drive-viewer/AKGpihbSVwSjH-yG3ZV7YSRWfQZwE84AiGZAFVWyfStu3xi5rBLSaPXtUBxQsCNUPZ0eH9vtYWw3R8Y-zM22Cgc9qMmkOPymsKdBbgg=s1600-rw-v1])
 
 ---
 
