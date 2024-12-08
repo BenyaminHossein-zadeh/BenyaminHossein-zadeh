@@ -36,7 +36,7 @@
 ## 📌 Featured Projects
 Here are some of my favorite projects:
 
-### [ErrorZone WebApp](([https://github.com/academy-react-summer1403/ErrorZone-project])
+### [ErrorZone WebApp](https://github.com/academy-react-summer1403/ErrorZone-project)
 > **Description**: This is an educational academy web app for Bahr Academy that includes educational courses to view courses and also to view news and blogs related to the educational fields of the world of programming and technology. 
 that the student can prepare a course and watch the course.
 > 
@@ -44,7 +44,7 @@ that the student can prepare a course and watch the course.
 >
 > ![Project Screenshot](https://drive.google.com/file/d/15nN7B9W2_YUgRV9wIWTV_kF_A7NHQkEe/view?usp=sharing)
 
-### [ErrorZone Admin Panel]([https://github.com/academy-react-summer1403/ErrorZone-Admin])
+### [ErrorZone Admin Panel](https://github.com/academy-react-summer1403/ErrorZone-Admin)
 > **Description**: This is The Admin Panel of ErrorZone WebApp.
 >
 > **Tech Stack**: React, Node.js, ReactQuery, ReduxTLK, Axios, Bootstrap,
