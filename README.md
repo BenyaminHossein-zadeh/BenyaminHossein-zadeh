@@ -78,7 +78,7 @@ that the student can prepare a course and watch the course.
 ## 📫 Let's Connect
 - 📧 Email: (benyaminhosseinzadeh84@gmail.com)
 - 🌐 Portfolio: [your-website.com](https://your-website.com)
-- 💼 LinkedIn: (https://www.linkedin.com/in/benyamin-hossein-zadeh-421732340/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/benyamin-hossein-zadeh/)
 
 ---
 
