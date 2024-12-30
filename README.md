@@ -68,13 +68,6 @@ that the student can prepare a course and watch the course.
 
 ---
 
-## 📊 GitHub Stats
-![Benyamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenyaminHossein-zadeh&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenyaminHossein-zadeh&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
 - 📧 Email: (benyaminhosseinzadeh84@gmail.com)
 - 🌐 Portfolio: [your-website.com](https://your-website.com)
