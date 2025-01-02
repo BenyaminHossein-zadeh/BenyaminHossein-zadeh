@@ -62,17 +62,6 @@ that the student can prepare a course and watch the course.
 
 ---
 
-## 🌟 Open Source Contributions
-- Contributed to [Open Source Project Name](https://github.com/example/repo).
-- Participated in **Hacktoberfest** 2023.
-
----
-
 ## 📫 Let's Connect
 - 📧 Email: (benyaminhosseinzadeh84@gmail.com)
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
 - 💼 LinkedIn: (https://www.linkedin.com/in/benyamin-hossein-zadeh/)
-
----
-
-💡 *“The best way to predict the future is to create it.”*
